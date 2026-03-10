@@ -72,3 +72,5 @@ runbook/snapshot-vm-multisubscription.ps1
 A full demo of this automation is available on my YouTube channel:
 
 CloudWithAarya
+
+#azure #azureautomation #cloudautomation #devops #powershell
