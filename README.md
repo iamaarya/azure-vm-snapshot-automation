@@ -37,7 +37,7 @@ or
 
 Disk Snapshot Contributor
 
-Assigned at subscription level.
+Assigned at subscription/RG or Resource level.
 
 ---
 
